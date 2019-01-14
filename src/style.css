@@ -1,0 +1,40 @@
+.container {
+  max-width: 800px;
+}
+
+.title {
+  text-align: center;
+}
+
+.item {
+  height: 125px;
+  width: 100%;
+  margin-bottom: 15px;
+  font-size: 16px;
+}
+
+.image {
+  width: 30%;
+  height: 100%;
+  float: left;
+}
+
+div.image img {
+  height: 100%;
+}
+
+.header {
+  font-size: 24px;
+}
+
+.extra {
+  margin-right: 15px;
+  float: right;
+}
+
+.avatar {
+  width: 20px;
+  height: 20px;
+  border-radius: 20px;
+  margin-left: 5px;
+}
